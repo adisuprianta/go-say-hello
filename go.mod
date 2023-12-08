@@ -1,3 +1,3 @@
-module go-say-hello
+module github.com/adisuprianta/go-say-hello
 
 go 1.21
